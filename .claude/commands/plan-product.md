@@ -1,4 +1,4 @@
-# Conceive Product
+# Plan Product
 
 ## Purpose
 Guide the user through product conception and produce three artifacts: mission statement, tech stack decision and phased roadmap.
